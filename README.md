@@ -17,7 +17,17 @@
 
 🛠️ Esse projeto de exemplo foi desenvolvido por [Daniel Portela](https://www.linkedin.com/in/danielportelati).
 
-🛠️ Como utilizar:
+⚙️ Próximos passos para o projeto:
+
+- <b>Exibir mais dados</b>: Além de abertura e fechamento, incluir dados como volume, alta e baixa diária.
+
+- <b>Estilização</b>: Melhorar o design da página com mais CSS e talvez incluir frameworks como Materialize ou Bootstrap para um design responsivo e moderno.
+
+- <b>Mensagens de erros aprimoradas</b>: Fornecer mensagens de erro mais detalhadas quando a pesquisa falhar, por exemplo, quando o símbolo da ação não for encontrado.
+
+- <b>Dark Mode</b>: Adicionar um modo escuro que os usuários possam ativar e desativar.<br><br>
+
+🛠️ Como utilizar o projeto:
 
 Acesse o site https://www.alphavantage.co e crie uma chave pública para utilizar a API
 
