@@ -5,7 +5,7 @@
 <p>Este é um projeto de estudo para consumo de dados de cotação de ações na bolsa de valores através de uma API (Alpha Vantage), tratamento e exibição das respectivas informações em uma página contendo tabela e gráficos. Desenvolvido em HTML5, CSS3, JavaScript e Google Charts</p>
 </div>
 
-![alt text](preview.jpg)
+![preview](https://github.com/daniel-portela/interface-api-cliente-acoes/assets/110783805/c6f3cf49-69dd-4245-b1e6-51e4a9134b38)
 
 👨🏼‍💻 <b>Tecnologias utilizadas:</b>
 * HTML5
